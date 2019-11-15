@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.zeroturnaround.com" xsi:schemaLocation="http://www.zeroturnaround.com/alderaan/rebel-2_0.xsd">
+
+	<classpath>
+		<dir name="D:/&#21653;&#27873;&#36164;&#26009;/tom-space-2019/aop/03.&#29992;30&#20010;&#31867;&#39640;&#20223;&#30495;&#25552;&#28860;&#32431;&#25163;&#20889;Spring&#26694;&#26550;V2.0&#20043;AOP/&#35838;&#22530;&#28304;&#30721;/gupaoedu-vip-spring-2.0/src/main/resources">
+			<include name="**/*"/>
+		</dir>
+		<dir name="D:/&#21653;&#27873;&#36164;&#26009;/tom-space-2019/aop/03.&#29992;30&#20010;&#31867;&#39640;&#20223;&#30495;&#25552;&#28860;&#32431;&#25163;&#20889;Spring&#26694;&#26550;V2.0&#20043;AOP/&#35838;&#22530;&#28304;&#30721;/gupaoedu-vip-spring-2.0/src/main/java">
+			<exclude name="**/*.java"/>
+			<exclude name="**/*.class"/>
+		</dir>
+		<dir name="D:/&#21653;&#27873;&#36164;&#26009;/tom-space-2019/aop/03.&#29992;30&#20010;&#31867;&#39640;&#20223;&#30495;&#25552;&#28860;&#32431;&#25163;&#20889;Spring&#26694;&#26550;V2.0&#20043;AOP/&#35838;&#22530;&#28304;&#30721;/gupaoedu-vip-spring-2.0/target/classes">
+		</dir>
+	</classpath>
+
+</application>
